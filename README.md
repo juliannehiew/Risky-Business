@@ -3,7 +3,7 @@
 
 Overview of the Analysis:
 
-In this analysis, several machine learning models are built based on the data provided to help predicting whether a customer is at low or high credit risk. Libraries including imbalanced-learn and Scikit-learn are built, along with evaluation models and these techniques, namely Reampling and Ensemble Learning, are applied. In the first couple of models I oversampled the data using randomoversampler and smote algorithms and undersample the data with the clustercentroid algorithm. In the remaining models I used a combination approach to over and undersample the data using smoteenn. Finally, I compared two machine learning models that minimize bias, balancedrandomforestclassifier and easyensembleclassifier.  
+In this analysis, several machine learning models are built based on the data provided to help predicting whether a customer is at low or high credit risk. Libraries including imbalanced-learn and Scikit-learn are built, along with evaluation models and these techniques, namely Resampling and Ensemble Learning, are both applied. In the first couple of models I oversampled the data using randomoversampler and smote algorithms and undersample the data with the clustercentroid algorithm. In the remaining models, I used a combination approach to over and undersample the data using smoteenn. Finally, I compared two machine learning models that minimize bias, balancedrandomforestclassifier and easyensembleclassifier.  
 
 ## Results:
 

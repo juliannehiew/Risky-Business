@@ -9,7 +9,7 @@ Results:
 Naive Random Oversampling results: Balanced accuracy score is 99%, the precision for the high_risk has a very high positivity at 85% and the recall is 100%
 
 
-## ![Naïve Random Oversampling]( https://github.com/juliannehiew/Risky-Business/find/main)
+## ![Naïve Random Oversampling](https://github.com/juliannehiew/Risky-Business/blob/main/Images/Naive Random Sampling.JPG)
 
 
 
@@ -30,7 +30,7 @@ Undersampling results: balanced accuracy score is 98.2% overall, the precision i
 
 Combination(over and undersampling) results: balanced accuracy score is 99.4% the precision is 100% and the recall is 99% overall
 
-## ![Combination](https://github.com/juliannehiew/Combination/find/main)
+## ![Combination](https://github.com/juliannehiew/Risky-Business/blob/main/Images/Combination.JPG)
 
 
 

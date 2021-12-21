@@ -9,28 +9,28 @@ Results:
 Naive Random Oversampling results: Balanced accuracy score is 99%, the precision for the high_risk has a very high positivity at 85% and the recall is 100%
 
 
+## ![Naïve Random Oversampling]( https://github.com/juliannehiew/Risky-Business/find/main)
 
 
 
 SMOTE oversampling results: the accuracy score is 99.4%, the precision for the high_risk loans has a high positvity again at 86% and recall is 99% overall
 
 
-
+## ![SMOTE oversampling]( https://github.com/juliannehiew/Risky-Business/find/main)
 
 
 
 Undersampling results: balanced accuracy score is 98.2% overall, the precision is at 99% and the recall is 99%
 
 
-
+## ![Undersampling]( https://github.com/juliannehiew/Undersampling/find/main)
 
 
 
 
 Combination(over and undersampling) results: balanced accuracy score is 99.4% the precision is 100% and the recall is 99% overall
 
-
-
+## ![Combination](https://github.com/juliannehiew/Combination/find/main)
 
 
 
@@ -42,10 +42,10 @@ Balanced Random Forest Classifier results: the accuracy score is 78.9% the preci
 
 
 
-Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 89%
+Easy Ensemble Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 89%
 
 
-
+## ![Easy Ensemble]( https://github.com/juliannehiew/Easy Ensemble Classifier/find/main)
 
 
 
